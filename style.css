@@ -1,0 +1,63 @@
+.col-md-3 {
+    background-color: #1565C0;
+}
+
+.col-md-9 {
+    background-color: white;
+}
+
+#Qualités .progress {
+    height: 40px;
+    margin-top: 30px;
+    background-color: #EF9A9A;
+
+}
+
+#Qualités .progress-bar {
+    font-size: 1.3vh;
+    text-shadow: 2px 2px 2px black;
+}
+
+header .html {
+    height: 5%;
+}
+
+.Qualités {
+    height: 80px;
+    border: 2px solid red;
+}
+
+.html {
+    width: 150px;
+    padding-top: 5px;
+
+}
+
+.CSS {
+    width: 150px;
+    padding-top: 10px;
+}
+
+.java {
+    width: 222px;
+    margin-top: 10px;
+}
+
+.office {
+    width: 130px;
+    margin-top: 15px;
+}
+
+.php {
+    width: 180px;
+    margin-top: 20px;
+}
+.cloud{
+    width: 150px;
+    margin-top: 15px;
+}
+
+.row .col-md-6{
+    padding-bottom: 20px;
+    
+}
